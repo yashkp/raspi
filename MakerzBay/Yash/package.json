@@ -1,0 +1,24 @@
+{
+  "name": "feedback-tool-garage",
+  "version": "1.0.0",
+  "description": "FeedBack Tool for Garage India",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Yaswanth Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "~1.5.0",
+    "adal-node": "^0.1.22"
+  }
+}
